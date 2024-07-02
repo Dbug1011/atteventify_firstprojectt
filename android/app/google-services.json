@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761670154656",
+    "project_id": "atteventify-c7271",
+    "storage_bucket": "atteventify-c7271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761670154656:android:354a1d84e2fea0e7dcccc5",
+        "android_client_info": {
+          "package_name": "com.atteventify.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZTzDsyx6Fgihe1v4tZOfWSqqFYQ_yXnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
